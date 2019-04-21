@@ -1,0 +1,14 @@
+h1, h2, h3, h4, h5 {
+    font-family: 'Poiret One', cursive;
+    font-weight: 500;
+    color: #53d0c6;
+}
+
+span {
+    color: #FCB2B2;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #6b6b6b;
+}
