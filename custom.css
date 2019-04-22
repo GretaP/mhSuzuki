@@ -28,11 +28,16 @@ body {
     width: auto;
 }
 
+.header-holder-2 {
+    background: url(banner2.jpg) center top / cover no-repeat ;
+    background-color: slategray;
+    min-height: 50vh;
+    width: auto;
+}
+
 .header-info {
     background-color: red;
     margin: auto;
-
-
 }
 
 @media (min-width: 640px){
