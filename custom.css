@@ -11,4 +11,44 @@ span {
 body {
     font-family: 'Open Sans', sans-serif;
     color: #6b6b6b;
+    background-color: #f8f9fa;
 }
+
+.navbar-brand {
+    font-family: 'Poiret One', cursive;
+    font-weight: 500;
+    color: #53d0c6 !important;
+    font-size: 2.5rem;s
+}
+
+.header-holder {
+    background: url(banner.jpg) center top / cover no-repeat ;
+    background-color: slategray;
+    min-height: 50vh;
+    width: auto;
+}
+
+.header-info {
+    background-color: red;
+    margin: auto;
+
+
+}
+
+@media (min-width: 640px){
+    .header-holder {
+        min-height: 65vh;
+    }
+}
+
+/*@media (max-width 640px) {*/
+    /*.header-holder {*/
+        /*min-height: 342px;}*/
+    /*}*/
+/*}*/
+
+/*@media (max-width: 768px) {*/
+    /*.header-holder {*/
+        /*min-height: 411px;}*/
+/*}*/
+
