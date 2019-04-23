@@ -1,3 +1,5 @@
+/*Written by hand by Greta Parks*/
+
 @media (min-width: 640px){
     .header-holder {
         min-height: 65vh;
@@ -22,13 +24,8 @@ h1 {
 
 h2, h3, h4, h5 {
     color: teal;
-    /*color: #4571a2;*/
-    /*color: #af4595;*/
-    /*color: #d053b2;*/
-    /*font-family: 'Open Sans', sans-serif;*/
     font-family: 'Montserrat', sans-serif;
 }
-
 
 span {
     color: #FCB2B2;
@@ -41,6 +38,10 @@ span {
     width: auto;
 }
 
+.img-responsive {
+    width: 100%;
+}
+
 .navbar-brand {
     font-family: 'Poiret One', cursive;
     font-weight: 500;
@@ -48,6 +49,8 @@ span {
     font-size: 2.5rem;s
 }
 
+
+/* Below: styling for about page.  Could use revisiting for a cleaner flow - I changed my mind a few times as I was writing*/
 .list-group-item {
     font-weight: bold;
 }
@@ -64,8 +67,4 @@ span {
 
 .indent {
     padding-left: 10%;
-}
-
-.img-responsive {
-    width: 100%;
 }
