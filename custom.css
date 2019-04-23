@@ -27,8 +27,14 @@ h2, h3, h4, h5 {
     font-family: 'Montserrat', sans-serif;
 }
 
-span {
-    color: #FCB2B2;
+.boldTabs {
+    font-weight: bold;
+}
+
+.boldTabs span {
+    display: block;
+    font-weight: normal;
+    padding-left: 10%;
 }
 
 .header-holder {
@@ -42,6 +48,16 @@ span {
     width: 100%;
 }
 
+.indent {
+    display: block;
+    font-weight: normal;
+    padding-left: 10%;
+}
+
+.logo span {
+    color: #FCB2B2;
+}
+
 .navbar-brand {
     font-family: 'Poiret One', cursive;
     font-weight: 500;
@@ -49,22 +65,6 @@ span {
     font-size: 2.5rem;s
 }
 
-
-/* Below: styling for about page.  Could use revisiting for a cleaner flow - I changed my mind a few times as I was writing*/
-.list-group-item {
-    font-weight: bold;
-}
-
-.list-group-item span {
-    color: inherit;
-    font-weight: normal;
-    display: block;
-}
-
-.boldTabs span {
-    padding-left: 15%;
-}
-
-.indent {
-    padding-left: 10%;
+.navbar-brand span {
+    color: #FCB2B2;
 }
