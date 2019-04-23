@@ -1,7 +1,20 @@
-h1, h2, h3, h4, h5 {
+h1 {
     font-family: 'Poiret One', cursive;
     font-weight: 500;
     color: #53d0c6;
+}
+
+h2, h3, h4, h5 {
+    color: teal;
+    /*color: #4571a2;*/
+    /*color: #af4595;*/
+    /*color: #d053b2;*/
+    /*font-family: 'Open Sans', sans-serif;*/
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #d053b2;
 }
 
 span {
