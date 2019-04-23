@@ -1,3 +1,19 @@
+@media (min-width: 640px){
+    .header-holder {
+        min-height: 65vh;
+    }
+}
+
+a {
+    color: #d053b2;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #6b6b6b;
+    background-color: #f8f9fa;
+}
+
 h1 {
     font-family: 'Poiret One', cursive;
     font-weight: 500;
@@ -13,25 +29,9 @@ h2, h3, h4, h5 {
     font-family: 'Montserrat', sans-serif;
 }
 
-a {
-    color: #d053b2;
-}
 
 span {
     color: #FCB2B2;
-}
-
-body {
-    font-family: 'Open Sans', sans-serif;
-    color: #6b6b6b;
-    background-color: #f8f9fa;
-}
-
-.navbar-brand {
-    font-family: 'Poiret One', cursive;
-    font-weight: 500;
-    color: #53d0c6 !important;
-    font-size: 2.5rem;s
 }
 
 .header-holder {
@@ -41,26 +41,9 @@ body {
     width: auto;
 }
 
-.header-holder-2 {
-    background: url(banner2.jpg) center top / cover no-repeat ;
-    background-color: slategray;
-    min-height: 20vh;
-    max-height: 40vh;
-
-}
-
-.header-info {
-    background-color: red;
-    margin: auto;
-}
-
-@media (min-width: 640px){
-    .header-holder {
-        min-height: 65vh;
-    }
-}
-
-
-.youtubes {
-    min-height: 315px;
+.navbar-brand {
+    font-family: 'Poiret One', cursive;
+    font-weight: 500;
+    color: #53d0c6 !important;
+    font-size: 2.5rem;s
 }
