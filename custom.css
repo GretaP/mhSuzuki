@@ -11,7 +11,8 @@ a {
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    /*font-family: 'Open Sans', sans-serif;*/
+    font-family: 'Roboto';
     color: #6b6b6b;
     background-color: #f8f9fa;
 }
