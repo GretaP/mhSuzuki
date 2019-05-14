@@ -1,4 +1,3 @@
-# celloWebbie
+# mhSuzuki2
 
-
-Built on Bootstrap by hand to replace the outdated version.  Cheers!
+Option based on bootstrap for mh Suzuki website.
