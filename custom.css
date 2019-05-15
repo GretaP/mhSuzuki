@@ -47,6 +47,11 @@ h2, h3, h4, h5 {
     padding-left: 10%;
 }
 
+.boldTabs i {
+    /*padding-left: 10%;*/
+    padding-right: 3%;
+}
+
 .header-holder {
     background: url(img/newcroppedscenery.jpg) center top / cover no-repeat ;
     background-color: slategray;
@@ -98,3 +103,10 @@ h2, h3, h4, h5 {
     color: #d287ff;
 
 }
+
+
+.teacher-list i {
+    padding-right: 3%;
+    padding-left: 3%
+}
+
