@@ -105,8 +105,13 @@ h2, h3, h4, h5 {
 }
 
 
-.teacher-list i {
+/*.teacher-list i {*/
+    /*padding-right: 3%;*/
+    /*padding-left: 3%*/
+/*}*/
+
+.list-group-item i {
     padding-right: 3%;
-    padding-left: 3%
+    padding-left: 3%;
 }
 
