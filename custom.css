@@ -1,5 +1,11 @@
 /*Written by hand by Greta Parks*/
 
+
+/* Brainstorming colors*/
+
+/*#06c1ee  <-- light blue "mid"*/
+/*#ae74ff <--- suzuki*/
+
 @media (min-width: 640px){
     .header-holder {
         min-height: 65vh;
@@ -56,16 +62,36 @@ h2, h3, h4, h5 {
 }
 
 .logo span {
-    color: #FCB2B2;
+    /*color: #FCB2B2;*/
+    color: #ae74ff;
+}
+
+.list-group-item {
+    background-color: #f8f9fa;
+    padding-left: 0;
+}
+
+.list-group-item p {
+    margin-bottom: 0;
+}
+
+.list-group-item span {
+    display: block;
+    font-style: italic;
+    padding-left: 12%;
 }
 
 .navbar-brand {
     font-family: 'Poiret One', cursive;
     font-weight: 500;
-    color: #53d0c6 !important;
+    /*color: #53d0c6 !important;*/
+    color: #06c1ee !important;
     font-size: 2.5rem;s
 }
 
 .navbar-brand span {
-    color: #FCB2B2;
+    /*color: #FCB2B2;*/
+    /*color: #ae74ff;*/
+    color: #d287ff;
+
 }
