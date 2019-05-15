@@ -26,11 +26,14 @@ body {
 h1 {
     font-family: 'Poiret One', cursive;
     font-weight: 500;
-    color: #53d0c6;
+    /*color: #53d0c6;*/
+    color: #06c1ee;
 }
 
 h2, h3, h4, h5 {
-    color: teal;
+    /*color: teal;*/
+    color: #06c1ee;
+
     font-family: 'Montserrat', sans-serif;
 }
 
