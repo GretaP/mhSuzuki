@@ -74,6 +74,14 @@ h2, h3, h4, h5 {
     color: #ae74ff;
 }
 
+.logo {
+    font-family: 'Poiret One', cursive;
+    font-weight: 500;
+    /*color: #53d0c6;*/
+    color: #06c1ee;
+}
+}
+
 .list-group-item {
     background-color: #f8f9fa;
     padding-left: 0;
