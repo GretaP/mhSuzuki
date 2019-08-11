@@ -4,7 +4,8 @@
 
 /*#06c1ee  <-- light blue "mid"*/
 /*Possible link blue color: #007bff*/
-/*#ae74ff <--- suzuki*/
+/*#ae74ff <--- suzuki color*/
+
 
 @media (min-width: 640px){
     .header-holder {
@@ -31,10 +32,10 @@ h1 {
     color: #06c1ee;
 }
 
+/*Heading colors and font*/
 h2, h3, h4, h5 {
     /*color: teal;*/
     color: #06c1ee;
-
     font-family: 'Montserrat', sans-serif;
 }
 
