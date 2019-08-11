@@ -3,6 +3,7 @@
 /* Brainstorming colors*/
 
 /*#06c1ee  <-- light blue "mid"*/
+/*Possible link blue color: #007bff*/
 /*#ae74ff <--- suzuki*/
 
 @media (min-width: 640px){
@@ -12,7 +13,8 @@
 }
 
 a {
-    color: #d053b2;
+    /*color: #d053b2;  <--- old purple/pink color*/
+    color: #007bff;
 }
 
 body {
