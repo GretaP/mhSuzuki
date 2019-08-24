@@ -2,6 +2,16 @@
 
 /* Brainstorming colors*/
 
+/*.block-with-text {*/
+    /*overflow: hidden;*/
+    /*white-space: nowrap;*/
+    /*text-overflow: ;*/
+/*}*/
+
+.indent3 {
+    padding-left: 10%;
+}
+
 /*#06c1ee  <-- light blue "mid"*/
 /*Possible link blue color: #007bff*/
 /*#ae74ff <--- suzuki color*/
@@ -34,7 +44,6 @@ h1 {
 
 /*Heading colors and font*/
 h2, h3, h4, h5 {
-    /*color: teal;*/
     color: #06c1ee;
     font-family: 'Montserrat', sans-serif;
 }
@@ -51,7 +60,7 @@ h2, h3, h4, h5 {
 
 .boldTabs i {
     /*padding-left: 10%;*/
-    padding-right: 3%;
+    padding-right: 5%;
 }
 
 .header-holder {
@@ -86,11 +95,13 @@ h2, h3, h4, h5 {
 
 .list-group-item {
     background-color: #f8f9fa;
-    padding-left: 0;
+    padding-left: 12%;
+
 }
 
 .list-group-item p {
     margin-bottom: 0;
+
 }
 
 .list-group-item span {
@@ -113,12 +124,6 @@ h2, h3, h4, h5 {
     color: #d287ff;
 
 }
-
-
-/*.teacher-list i {*/
-    /*padding-right: 3%;*/
-    /*padding-left: 3%*/
-/*}*/
 
 .list-group-item i {
     padding-right: 3%;
