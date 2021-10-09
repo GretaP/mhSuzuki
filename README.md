@@ -1,3 +1,4 @@
-# mhSuzuki2
+# mhSuzuki
 
-Option based on bootstrap for mh Suzuki website.
+MH Suzuki Website
+Website for music coop in the MidHudson Valley.
